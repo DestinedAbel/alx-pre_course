@@ -1,1 +1,1 @@
-My first readme
+life as a software enginer
